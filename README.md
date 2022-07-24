@@ -9,7 +9,7 @@ My name is Khang. I come from Vietnam. I am learning in Cantho university. I am 
 <!-- FRAMEWORK AND LIBRARY -->
 ## Framework and Library
 
-# Front end
+### Front end
 
 [![Next][Next.js]][Next-url]
 [![React][React.js]][React-url]
@@ -18,10 +18,12 @@ My name is Khang. I come from Vietnam. I am learning in Cantho university. I am 
 [![MUI][MUI]][Mui-url]
 [![JQuery][Jquery]][Jquery-url]
 
-# Back end
+### Back end
 [![Nest][Nest.js]][Nest-url]
 [![Express][Express.js]][Express-url]
-[![Swagger][Swagger]][Swagger-url]
+[![MYSQL][Mysql]][Mysql-url]
+[![MONGODB][Mongodb]][Mongodb-url]
+[![SEQUELIZE][Sequelize]][Sequelize-url]
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&hide_border=true&layout=compact&theme=nightowl"/><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=nightowl" />
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=dpkhang&theme=nightowl&hide_border=true"/>
@@ -47,7 +49,13 @@ My name is Khang. I come from Vietnam. I am learning in Cantho university. I am 
 [Jquery]: https://img.shields.io/badge/Jquery-007fff?style=for-the-badge&logo=jquery&logoColor=ffffff
 [Jquery-url]: https://jquery.com/
 [Swagger]: https://img.shields.io/badge/Swagger-38b832?style=for-the-badge&logo=swagger&logoColor=000000
-[Jquery-url]: https://swagger.io/
+[Swagger-url]: https://swagger.io/
+[Mysql]: https://img.shields.io/badge/MYSQL-ffffff?style=for-the-badge&logo=mysql
+[Mysql-url]: https://www.mysql.com/
+[Mongodb]: https://img.shields.io/badge/MONGODB-ffffff?style=for-the-badge&logo=mongodb
+[Mongodb-url]: https://www.mongodb.com/
+[Sequelize]: https://img.shields.io/badge/SEQUELIZE-ffffff?style=for-the-badge&logo=sequelize
+[Sequelize-url]: https://sequelize.org/
 
 <!--
 **dpkhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
