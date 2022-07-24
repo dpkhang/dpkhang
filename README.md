@@ -1,4 +1,4 @@
-My name is Khang. I come from Vietnam. I am learning in Cantho university. I am a fullstack developer with frameworks of javascript. I have partipated gihub for 4 years and learnt any things from github.
+#### My name is Khang. I come from Vietnam. I am learning in Cantho university. I am a fullstack developer with frameworks of javascript. I have partipated gihub for 4 years and learnt any things from github.
 
 <!-- CONTACT -->
 ## Contact
@@ -24,6 +24,7 @@ My name is Khang. I come from Vietnam. I am learning in Cantho university. I am 
 [![MYSQL][Mysql]][Mysql-url]
 [![MONGODB][Mongodb]][Mongodb-url]
 [![SEQUELIZE][Sequelize]][Sequelize-url]
+[![SOCKETIO][Socket.io]][Socket.io-url]
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&hide_border=true&layout=compact&theme=nightowl"/><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=nightowl" />
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=dpkhang&theme=nightowl&hide_border=true"/>
@@ -52,10 +53,12 @@ My name is Khang. I come from Vietnam. I am learning in Cantho university. I am 
 [Swagger-url]: https://swagger.io/
 [Mysql]: https://img.shields.io/badge/MYSQL-ffffff?style=for-the-badge&logo=mysql
 [Mysql-url]: https://www.mysql.com/
-[Mongodb]: https://img.shields.io/badge/MONGODB-ffffff?style=for-the-badge&logo=mongodb
+[Mongodb]: https://img.shields.io/badge/MONGODB-38b832?style=for-the-badge&logo=mongodb&logoColor=ffffff
 [Mongodb-url]: https://www.mongodb.com/
-[Sequelize]: https://img.shields.io/badge/SEQUELIZE-ffffff?style=for-the-badge&logo=sequelize
+[Sequelize]: https://img.shields.io/badge/SEQUELIZE-007fff?style=for-the-badge&logo=sequelize&logoColor=ffffff
 [Sequelize-url]: https://sequelize.org/
+[Socket.io]: https://img.shields.io/badge/Socket-000000?style=for-the-badge&logo=socketdotio&logoColor=ffffff
+[Socket.io-url]: https://socket.io/
 
 <!--
 **dpkhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
