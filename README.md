@@ -22,6 +22,7 @@
 
 [![Next][Next.js]][Next-url]
 [![React][React.js]][React-url]
+[![Redux][Redux]][Redux-url]
 [![Angular][Angular.io]][Angular-url]
 [![SASS][SASS]][Sass-url]
 [![MUI][MUI]][Mui-url]
@@ -74,6 +75,8 @@
 [CSharp-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [Solidity]: https://img.shields.io/badge/Solidity-65afff?style=for-the-badge&logo=solidity
 [Solidity-url]: https://docs.soliditylang.org/en/v0.8.15/
+[Redux]: https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux
+[Redux-url]: https://redux.js.org/
 
 <!--
 **dpkhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
