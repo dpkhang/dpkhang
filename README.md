@@ -41,7 +41,7 @@ My name is Khang. I come from Vietnam. I am learning in Cantho university. I am 
 [Express-url]: https://expressjs.com/
 [SASS]: https://img.shields.io/badge/SASS-cf649a?style=for-the-badge&logo=sass&logoColor=ffffff
 [Sass-url]: https://sass-lang.com/guide
-[MUI]: https://img.shields.io/badge/MaterialUI-007fff?style=for-the-badge&logo=mui&logoColor=ffffff
+[MUI]: https://img.shields.io/badge/Material-007fff?style=for-the-badge&logo=mui&logoColor=ffffff
 [Mui-url]: https://mui.com/
 [Jquery]: https://img.shields.io/badge/Jquery-007fff?style=for-the-badge&logo=jquery&logoColor=ffffff
 [Jquery-url]: https://jquery.com/
