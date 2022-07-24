@@ -36,7 +36,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Vue-url]: https://vuejs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
-[Nest.js]: 
+[Nest.js]: https://img.shields.io/badge/NestJS-Nest-red??style=for-the-badge&logo=nest
 [Nest-url]: https://nestjs.com/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
