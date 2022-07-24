@@ -9,7 +9,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/dpkhang](https://github.com/dpkhang)
+Github link: [https://github.com/dpkhang](https://github.com/dpkhang)
 
 
 
