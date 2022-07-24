@@ -32,7 +32,8 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dpkhang&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&layout=compact&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" /> 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&layout=compact&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" /> 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
