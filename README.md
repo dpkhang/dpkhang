@@ -18,7 +18,8 @@ My name is Khang. I come from Vietnam. I am learning in Cantho university. I am 
 [![Nest][Nest.js]][Nest-url]
 [![Express][Express.js]][Express-url]
 
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&hide_border=true&layout=compact&theme=nightowl"/><img height="160em" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=nightowl" /><img height="130em" src="https://github-readme-streak-stats.herokuapp.com?user=dpkhang&theme=nightowl&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&hide_border=true&layout=compact&theme=nightowl"/><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=nightowl" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=dpkhang&theme=nightowl&hide_border=true"/>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
