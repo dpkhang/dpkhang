@@ -1,14 +1,12 @@
 <p align="center">
   <img  width="700" align="center" style="border-radius: 40px" src="https://github.com/dpkhang/dpkhang/blob/main/e2550a7e941654480d07.jpg" alt="dpkhang"/>
 </p>
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+## 
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
+* [![Nest].[Nest.js].[Nest-url]]
 <!-- CONTACT -->
 ## Contact
 
@@ -38,6 +36,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [Vue-url]: https://vuejs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
+[Nest.js]: 
+[Nest-url]: https://nestjs.com/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />      
