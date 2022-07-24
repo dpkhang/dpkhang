@@ -29,6 +29,9 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
@@ -42,12 +45,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Nest.js]: https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=DD0031
 [Nest-url]: https://nestjs.com/
 [Express.js]: https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=000000
-[Express-url]: https://expressjs.com/
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-</p>     
+[Express-url]: https://expressjs.com/    
 
 <!--
 **dpkhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
