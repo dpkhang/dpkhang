@@ -39,7 +39,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Angular-url]: https://angular.io/
 [Nest.js]: https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=DD0031
 [Nest-url]: https://nestjs.com/
-[Express.js]: https://img.shields.io/badge/ExpressJS-ffffff?style=for-the-badge&logo=expressjs&logoColor=000000
+[Express.js]: https://img.shields.io/badge/ExpressJS-ffffff?style=for-the-badge&logo=express&logoColor=000000
 [Express-url]: https://expressjs.com/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
