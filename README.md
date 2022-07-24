@@ -5,7 +5,9 @@ My name is Khang. I come from Vietnam. I am learning in Cantho university. I am 
 
 <!-- CONTACT -->
 ## Contact
-[![Facebook](https://img.shields.io/badge/Facebook-0f90f3?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100017742729535)
+[![Facebook](https://img.shields.io/badge/Facebook-0f90f3?style=flat&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100017742729535)
+[![Github](https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=ffffff)](https://github.com/dpkhang/)
+[![Gitlab](https://img.shields.io/badge/Gitlab-#e24329?style=flat&logo=gitlab&logoColor=ffffff)](https://gitlab.com/dpkhang/)
 
 <!-- FRAMEWORK AND LIBRARY -->
 ## Framework and Library
