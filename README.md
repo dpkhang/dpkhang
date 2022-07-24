@@ -16,6 +16,7 @@
 ### Programming Languages
 [![Typescript][Typescript]][Typescript-url]
 [![CSharp][CSharp]][CSharp-url]
+[![Solidity][Solidity]][Solidity-url]
 
 ### Front end
 
@@ -71,6 +72,8 @@
 [Typescript-url]: https://www.typescriptlang.org/
 [CSharp]: https://img.shields.io/badge/CSharp-296696?style=for-the-badge&logo=csharp&logoColor=ffffff
 [CSharp-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
+[Solidity]: https://img.shields.io/badge/Solidity-65afff?style=for-the-badge&logo=solidity
+[Solidity-url]: https://docs.soliditylang.org/en/v0.8.15/
 
 <!--
 **dpkhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
