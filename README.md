@@ -1,8 +1,9 @@
 <p align="center">
   <img  width="700" align="center" style="border-radius: 40px" src="https://github.com/dpkhang/dpkhang/blob/main/e2550a7e941654480d07.jpg" alt="dpkhang"/>
 </p>
-My name is Khang. I come from Vietnam. I am learning in Cantho university. I am a fullstack developer with frameworks of javascript. 
-
+My name is Khang. I come from Vietnam. I am learning in Cantho university. I am a fullstack developer with frameworks of javascript. I have partipated gihub for 4 years and learnt any things from github.
+Contact with me:
+[![Facebook][https://img.shields.io/badge/Facebook-0f90f3?style=for-the-badge&logo=facebook&logoColor=ffffff]][https://www.facebook.com/profile.php?id=100017742729535]
 <!-- FRAMEWORK AND LIBRARY -->
 ## Framework and Library
 
