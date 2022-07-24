@@ -4,7 +4,7 @@ My name is Khang. I come from Vietnam. I am learning in Cantho university. I am 
 ## Contact
 [![Facebook](https://img.shields.io/badge/Facebook-0f90f3?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100017742729535)
 [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/dpkhang/)
-[![Gitlab](https://img.shields.io/badge/Gitlab-ffffff?style=for-the-badge&logo=gitlab&logoColor=e24329)](https://gitlab.com/dpkhang/)
+[![Gitlab](https://img.shields.io/badge/Gitlab-ffffff?style=for-the-badge&logo=gitlab)](https://gitlab.com/dpkhang/)
 
 <!-- FRAMEWORK AND LIBRARY -->
 ## Framework and Library
@@ -21,6 +21,7 @@ My name is Khang. I come from Vietnam. I am learning in Cantho university. I am 
 # Back end
 [![Nest][Nest.js]][Nest-url]
 [![Express][Express.js]][Express-url]
+[![Swagger][Swagger]][Swagger-url]
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&hide_border=true&layout=compact&theme=nightowl"/><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=nightowl" />
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=dpkhang&theme=nightowl&hide_border=true"/>
@@ -45,6 +46,8 @@ My name is Khang. I come from Vietnam. I am learning in Cantho university. I am 
 [Mui-url]: https://mui.com/
 [Jquery]: https://img.shields.io/badge/Jquery-007fff?style=for-the-badge&logo=jquery&logoColor=ffffff
 [Jquery-url]: https://jquery.com/
+[Swagger]: https://img.shields.io/badge/Swagger-38b832?style=for-the-badge&logo=swagger&logoColor=000000
+[Jquery-url]: https://swagger.io/
 
 <!--
 **dpkhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
