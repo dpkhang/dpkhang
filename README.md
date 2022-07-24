@@ -1,5 +1,5 @@
 
-<img  width="400" src="https://github.com/dpkhang/dpkhang/blob/main/e2550a7e941654480d07.jpg" alt="dpkhang"/>
+<img  width="700" align="center" src="https://github.com/dpkhang/dpkhang/blob/main/e2550a7e941654480d07.jpg" alt="dpkhang"/>
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
