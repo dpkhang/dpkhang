@@ -5,11 +5,11 @@
 <!-- FRAMEWORK AND LIBRARY -->
 ## Framework and Library
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Nest][Nest.js]][Nest-url]
-* [![Express][Express.js]][Express-url]
+[[Next][Next.js]][Next-url]
+[![React][React.js]][React-url]
+[![Angular][Angular.io]][Angular-url]
+[![Nest][Nest.js]][Nest-url]
+[![Express][Express.js]][Express-url]
 <!-- CONTACT -->
 ## Contact
 
