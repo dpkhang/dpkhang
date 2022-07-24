@@ -1,5 +1,5 @@
 <p align="center">
-  <img  width="700" align="center" src="https://github.com/dpkhang/dpkhang/blob/main/e2550a7e941654480d07.jpg" alt="dpkhang"/>
+  <img  width="700" align="center" style="border-radius: 40px" src="https://github.com/dpkhang/dpkhang/blob/main/e2550a7e941654480d07.jpg" alt="dpkhang"/>
 </p>
 ### Built With
 
