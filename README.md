@@ -2,16 +2,23 @@ My name is Khang. I come from Vietnam. I am learning in Cantho university. I am 
 
 <!-- CONTACT -->
 ## Contact
-[![Facebook](https://img.shields.io/badge/Facebook-0f90f3?style=flat&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100017742729535)
-[![Github](https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=ffffff)](https://github.com/dpkhang/)
-[![Gitlab](https://img.shields.io/badge/Gitlab-ffffff?style=flat&logo=gitlab&logoColor=e24329)](https://gitlab.com/dpkhang/)
+[![Facebook](https://img.shields.io/badge/Facebook-0f90f3?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100017742729535)
+[![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/dpkhang/)
+[![Gitlab](https://img.shields.io/badge/Gitlab-ffffff?style=for-the-badge&logo=gitlab&logoColor=e24329)](https://gitlab.com/dpkhang/)
 
 <!-- FRAMEWORK AND LIBRARY -->
 ## Framework and Library
 
+# Front end
+
 [![Next][Next.js]][Next-url]
 [![React][React.js]][React-url]
 [![Angular][Angular.io]][Angular-url]
+[![SASS][SASS]][Sass-url]
+[![MUI][MUI]][Mui-url]
+[![JQuery][Jquery]][Jquery-url]
+
+# Back end
 [![Nest][Nest.js]][Nest-url]
 [![Express][Express.js]][Express-url]
 
@@ -31,7 +38,11 @@ My name is Khang. I come from Vietnam. I am learning in Cantho university. I am 
 [Nest.js]: https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=DD0031
 [Nest-url]: https://nestjs.com/
 [Express.js]: https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=000000
-[Express-url]: https://expressjs.com/    
+[Express-url]: https://expressjs.com/
+[SASS]: https://img.shields.io/badge/SASS-cf649a?style=for-the-badge&logo=sass&logoColor=ffffff
+[Sass-url]: https://sass-lang.com/guide
+[MUI]: https://img.shields.io/badge/MaterialUI-007fff?style=for-the-badge&logo=material&logoColor=ffffff
+[Mui-url]: https://mui.com/
 
 <!--
 **dpkhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
