@@ -45,7 +45,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [Express-url]: https://expressjs.com/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />      
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+</p>     
 
 <!--
 **dpkhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
