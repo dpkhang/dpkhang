@@ -1,5 +1,3 @@
-<div id="top"></div>
-
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -8,14 +6,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 <!-- CONTACT -->
 ## Contact
 
 Project Link: [https://github.com/dpkhang](https://github.com/dpkhang)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -30,10 +24,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
