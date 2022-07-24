@@ -1,4 +1,8 @@
-#### My name is Khang. I come from Vietnam. I am learning in Cantho university. I am a fullstack developer with frameworks of javascript. I have partipated gihub for 4 years and learnt any things from github.
+##### 🌱 My name is Khang. 
+##### 🌱 I come from Vietnam. 
+##### 🌱 I am learning in Cantho university. 
+##### 🌱 I am a fullstack developer with frameworks of javascript. 
+##### 🌱 I have partipated gihub for 4 years and learnt any things from github.
 
 <!-- CONTACT -->
 ## Contact
