@@ -31,7 +31,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" /> 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
