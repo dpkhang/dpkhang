@@ -13,6 +13,10 @@
 <!-- FRAMEWORK AND LIBRARY -->
 ## Framework and Library
 
+### Programming Languages
+[![Typescript][Typescript]][Typescript-url]
+[![CSharp][CSharp]][CSharp-url]
+
 ### Front end
 
 [![Next][Next.js]][Next-url]
@@ -63,6 +67,10 @@
 [Sequelize-url]: https://sequelize.org/
 [Socket.io]: https://img.shields.io/badge/Socket-000000?style=for-the-badge&logo=socketdotio&logoColor=ffffff
 [Socket.io-url]: https://socket.io/
+[Typescript]: https://img.shields.io/badge/Typescript-296696?style=for-the-badge&logo=typescript&logoColor=ffffff
+[Typescript-url]: https://www.typescriptlang.org/
+[CSharp]: https://img.shields.io/badge/CSharp-296696?style=for-the-badge&logo=csharp&logoColor=ffffff
+[CSharp-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
 <!--
 **dpkhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
