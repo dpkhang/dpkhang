@@ -1,6 +1,7 @@
 <p align="center">
   <img  width="700" align="center" style="border-radius: 40px" src="https://github.com/dpkhang/dpkhang/blob/main/e2550a7e941654480d07.jpg" alt="dpkhang"/>
 </p>
+My name is Khang. I come from Vietnam. I am learning in Cantho university. I am a fullstack developer with frameworks of javascript. 
 
 <!-- FRAMEWORK AND LIBRARY -->
 ## Framework and Library
