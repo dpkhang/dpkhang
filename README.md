@@ -30,8 +30,8 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&layout=compact&theme=radical" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" /> 
+
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpkhang&layout=compact&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpkhang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" /> 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
