@@ -15,6 +15,8 @@
 [![Typescript][Typescript]][Typescript-url]
 [![CSharp][CSharp]][CSharp-url]
 [![Solidity][Solidity]][Solidity-url]
+[![PHP][PHP]][PHP-url]
+[![javascript][Javascript]][Javascript-url]
 
 ### Front end
 
@@ -75,6 +77,10 @@
 [Solidity-url]: https://docs.soliditylang.org/en/v0.8.15/
 [Redux]: https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux
 [Redux-url]: https://redux.js.org/
+[PHP]: https://img.shields.io/badge/PHP-ffffff?style=for-the-badge&logo=php&logoColor=7A86B8
+[PHP-url]: https://www.php.net/
+[Javascript]: https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript
+[Javascript-url]: https://www.w3schools.com/js/
 
 <!--
 **dpkhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
