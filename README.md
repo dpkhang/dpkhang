@@ -23,7 +23,7 @@
 [![Next][Next.js]][Next-url]
 [![React][React.js]][React-url]
 [![Redux][Redux]][Redux-url]
-[![Angular][Angular.io]][Angular-url]
+[![Vue][Vue.js]][Vue-url]
 [![SASS][SASS]][Sass-url]
 [![MUI][MUI]][Mui-url]
 [![JQuery][Jquery]][Jquery-url]
